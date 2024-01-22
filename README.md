@@ -5,7 +5,7 @@ All visualizations are available on Tableau Public at: https://public.tableau.co
 The dashboard "LA Crimes from 2010-2024" aims to provide you with:
 * A general overview of crime occurrences, arrest statuses, and trends over time in the city of Los Angeles, California
 * An account on the different times of day (e.g. morning, afternoon, night, etc.) in which crime occurs
-* A breakdown of criminal offences based on their geographical locations, crime scene premises, weapons used, and demographic information of the victims affected
+* A breakdown of criminal offences based on their geographical locations, crime scene premises (like a street or a parking lot), weapons used, and demographic information of the victims affected
 
 Instructions to those who want to reproduce the end-to-end process of making the visualization:
 1. Download the original csv file for the source data from: https://catalog.data.gov/dataset/crime-data-from-2020-to-present.
